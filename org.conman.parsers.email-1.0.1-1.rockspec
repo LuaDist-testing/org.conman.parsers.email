@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "org.conman.parsers.email"
-version = "1.0.1-0"
+version = "1.0.1-1"
 
 -- LuaDist source
 source = {
-  tag = "1.0.1-0",
+  tag = "1.0.1-1",
   url = "git://github.com/LuaDist-testing/org.conman.parsers.email.git"
 }
 -- Original source
@@ -34,7 +34,7 @@ description =
 dependencies =
 {
   "lua",
-  "lpeg >= 0.10"
+  "lpeg >= 1.0.1"
 }
 
 build =
